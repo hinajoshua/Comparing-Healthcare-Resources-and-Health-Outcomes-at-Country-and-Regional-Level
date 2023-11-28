@@ -1,3 +1,6 @@
+### Comparing-Healthcare-Resources-and-Health-Outcomes-at-Country-and-Regional-Level
+##### An analysis of the health expenditure and health outcomes at country and regional level to create a country level composite indicator of healthcare utilization efficiency.
+
 All data files are in the data folder. No download necessary
 
 TO INSTALL DEPENDENCIES :
